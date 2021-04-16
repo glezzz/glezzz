@@ -1,6 +1,6 @@
 ### 👋 Hello there, my name is Alejandro Gonzalez
 
-- 🔭 I’m currently looking for an internship
+- 🔭 I’m currently looking for a junior position or an internship as an Android Developer
 
 - 📫 How to reach me on www.linkedin.com/in/alejandrogonzalezkringhs or alexglezk@gmail.com
 
