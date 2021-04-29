@@ -10,7 +10,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android Studio" width="26px" src="http://bollywoodsargam.com/wp-content/uploads/sites/7/2020/05/600px-Breezeicons-apps-48-android-studio.svg_.png" />
 <img align="left" alt="Jetpack" width="26px" src="https://miro.medium.com/max/344/1*a3qBnhNrMuVdGVx7M2aYyA.png" />
-<img align="left" alt="Jetpack Compose" width="26px" src="https://www.golem.de/2008/150514-240985-240984_rc.jpg"/>
+<img align="left" alt="Jetpack Compose" width="26px" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"/>
 <img align="left" alt="Material Design" width="26px" src="https://pbs.twimg.com/profile_images/925576484122779648/ucVTUoPg_400x400.jpg" />
 <img align="left" alt="MVVM"src="https://img.shields.io/badge/-MVVM-orange" /> 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
