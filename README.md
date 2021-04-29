@@ -12,10 +12,11 @@
 <img align="left" alt="Jetpack" width="26px" src="https://miro.medium.com/max/344/1*a3qBnhNrMuVdGVx7M2aYyA.png" />
 <img align="left" alt="Jetpack Compose" width="26px" src="https://www.golem.de/2008/150514-240985-240984_rc.jpg"/>
 <img align="left" alt="Material Design" width="26px" src="https://pbs.twimg.com/profile_images/925576484122779648/ucVTUoPg_400x400.jpg" />
-<img src="https://img.shields.io/badge/-MVVM-orange" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img src="https://img.shields.io/badge/-MVVM-orange" /> 
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img src="https://img.shields.io/badge/-Retrofit-brightgreen" />
-<img align="left" alt="Glide" width="70px" src="https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png" /> 
-<img src="https://img.shields.io/badge/-SCRUM-blue" /> 
-<img src="https://img.shields.io/badge/-Room-green" /> 
-<img src="https://img.shields.io/badge/-Dagger%20Hilt-blue" /> 
+<img alt="Glide"src="https://img.shields.io/badge/-Glide-green" /> 
+<img alt="SCRUM" src="https://img.shields.io/badge/-SCRUM-blue" /> 
+<img alt="Room" src="https://img.shields.io/badge/-Room-green" /> 
+<img alt="Dagger Hilt" src="https://img.shields.io/badge/-Dagger%20Hilt-blue" /> 
